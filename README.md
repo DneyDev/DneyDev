@@ -24,9 +24,10 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/ExpressJS-Dark.svg" height="46" alt="Express logo"  />
   <img width="12" />
 </div>
+
 <div align="center">
- <img height="190em" src="https://github-readme-stats.vercel.app/api?username=DneyDev&show_icons=true&theme=radical&title_color=8b5cf6&text_color=a78bfa&icon_color=8b5cf6&bg_color=0c131c&border_color=8b5cf6"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DneyDev&layout=compact&hide_border=true&title_color=8b5cf6&text_color=a78bfa&bg_color=0d1117"/>
+ <img height="190em" src="https://github-readme-stats.vercel.app/api?username=DneyDev&show_icons=true&theme=radical&title_color=ee4242&text_color=ee4242&icon_color=8b5cf6&bg_color=0c131c&border_color=ee4242"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DneyDev&layout=compact&hide_border=true&title_color=ee4242&text_color=ee4242&bg_color=0d1117"/>
   <img src="https://streak-stats.demolab.com?user=DneyDev&theme=radical&hide_border=true"/>
 </div>
 <a href="https://www.linkedin.com/in/sidneyrodrigues010/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
