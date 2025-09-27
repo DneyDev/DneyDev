@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e60000&height=120&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=e60000&center=true&vCenter=true&random=false&size=30&width=1000&lines=Oi!+Meu+nome+é+Sidney+%F0%9F%91%8B;Colecionando+bugs;Sinta-se+em+casa+%F0%9F%91%80)
-
+<h2>CS student | Back-End & Database enthusiast | Building projects with JavaScript & MongoDB</h2>
 ###
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
@@ -27,7 +27,6 @@
 
 <div align="center">
  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=DneyDev&show_icons=true&theme=radical&title_color=ee4242&text_color=ee4242&icon_color=8b5cf6&bg_color=0c131c&border_color=ee4242"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DneyDev&layout=compact&hide_border=true&title_color=ee4242&text_color=ee4242&bg_color=0d1117"/>
   <img src="https://streak-stats.demolab.com?user=DneyDev&theme=radical&hide_border=true"/>
 </div>
 <a href="https://www.linkedin.com/in/sidneyrodrigues010/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
