@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e60000&height=120&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=e60000&center=true&vCenter=true&random=false&size=30&width=1000&lines=Oi!+Meu+nome+é+Sidney+%F0%9F%91%8B;Sou+back-end+dev;Bem-vindo+%F0%9F%91%80)
-<h2>CS student | Back-End & Database enthusiast | Building projects with JavaScript & MongoDB</h2>
+<h2>CS student | Back-End & Database enthusiast | Building projects with Java & MongoDB</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
